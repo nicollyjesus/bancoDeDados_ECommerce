@@ -30,4 +30,8 @@ A tabela `produtos` foi modelada com os seguintes atributos:
    ```bash
    git clone https://github.com/nicollyjesus/bancoDeDados_RH.git
 
-   
+## 👩‍💻 Autora
+- Nome: Nicolly Jesus
+- Linkedln: https://www.linkedin.com/in/nicolly-jesus/
+- Curso: Java Full-Stack - Bloco 01 - Projeto Final
+- Data: 2025
